@@ -1,6 +1,7 @@
 ## Social Service Job
 <hr />
-1. What was it that you did?
+
+**1. What was it that you did?**
 <br />
 In the summer of 2023, I worked in a social services. 
 
