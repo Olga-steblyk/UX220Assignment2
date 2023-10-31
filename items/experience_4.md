@@ -16,17 +16,9 @@ I like driving as in I have more freedom where to go any time, such as in I do n
 <br />
 My most favourite memory would be driving somewhere spontaneous. When looking for places to celebrate my birthday, we saw that Paris was very close to brantford, but what we also how near it really is. Since it was near 12am, the traffic was non-existent at the point and the trip would take less than 15 mins. So on a last minute decisions, we drove to Paris Ontario.
 
+**5. What didn't you enjoy about it?**
+<br />
+At times, I feel that it can get stressful, as there are many responsibilities that come with it and it can be very stressful. Driving in unexpected conditions such as snow can lead to dangerous situation.  
 
-5. What didn't you enjoy about it?
-
-6. Give your experience a letter "grade"
-
-A	couldn't be better
-
-B	for the most part enjoyable
-
-C	It was ok
-
-D	Didn't like it
-
-F	Still having nightmares
+**6. Give your experience a letter "grade"**
+I would give this experience a letter: C It was ok
