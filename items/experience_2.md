@@ -23,4 +23,4 @@ Often times, I had to stay late with clients, in which it was unpaid work. I wou
 
 **6. Give your experience a letter "grade"**
 <br /> 
-I would give this experience a letter: C It was ok
+I would give this experience a letter: **C** It was ok

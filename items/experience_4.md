@@ -21,4 +21,4 @@ My most favourite memory would be driving somewhere spontaneous. When looking fo
 At times, I feel that it can get stressful, as there are many responsibilities that come with it and it can be very stressful. Driving in unexpected conditions such as snow can lead to dangerous situation.  
 
 **6. Give your experience a letter "grade"**
-I would give this experience a letter: C It was ok
+I would give this experience a letter: **C** It was ok

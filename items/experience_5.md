@@ -23,5 +23,5 @@ Since it is a volunteer position, I did not get paid for long hours in the sun. 
 
 **6. Give your experience a letter "grade"**
 <br />
-I would give this experience a letter: B for the most part enjoyable
+I would give this experience a letter: **B** for the most part enjoyable
 

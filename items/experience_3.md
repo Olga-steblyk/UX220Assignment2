@@ -21,4 +21,4 @@ There are a few parts in which it can be stressful. Such as getting photos in ti
 
 **6. Give your experience a letter "grade"**
 <br />
-I would give this experience a letter: B for the most part enjoyable.
+I would give this experience a letter: **B** for the most part enjoyable.

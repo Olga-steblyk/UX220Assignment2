@@ -22,4 +22,4 @@ One of my most favourite memories would be with my friends, meeting them and spe
 One thing I did not enjoy in university is realizing that I am an adult with adult responsibilities. It is very expensive living as a student on my own, and learning how to manage time, money, but also personal well being. 
 
 **6. Give your experience a letter "grade":**
-I would give this experience a letter: B for the most part enjoyable.
+I would give this experience a letter: **B** for the most part enjoyable.
