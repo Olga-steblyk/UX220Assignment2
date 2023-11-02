@@ -41,7 +41,11 @@
         a{
             color:#e63946;
         }
-        
+        .column {
+            float: center;
+            width: 50%;
+            padding: 15px;
+        }
         
         
  
@@ -79,12 +83,11 @@
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
         
-        <div class="banner">
-            <div class="col-left">
+        <div class="row">
+            <div class="column">
                 <x-markdown2html src="about.md" id="about">
             </div>
-            <div class="col-center"></div>
-            <div class="col-right"><x-markdown2html src="contact.md" id="contact">
+            <div class="column"><x-markdown2html src="contact.md" id="contact">
             </div>
         </div>
         

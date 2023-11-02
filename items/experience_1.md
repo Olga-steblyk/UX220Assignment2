@@ -3,7 +3,7 @@
 
 **1. What was it that you did?**
 <br />
-When I was in gr12, I was seconding guessing my choice into going to university. All my friends in high school were going into universities that are from my hometown of 'Toronto', such as TMU, UofT, OCAD or York, but I was going to Brantford. In addition, I was unsure of what I wanted to do in my future, as I love art and photography, I knew it is more realistic to go to a more STEM focused such as computer science. 
+When I was in Gr12, I was seconding guessing my choice into going to university. All my friends in high school were going into universities that are from my hometown of 'Toronto', such as TMU, UofT, OCAD or York, but I was going to Brantford. In addition, I was unsure of what I wanted to do in my future, as I love art and photography, I knew it is more realistic to go to a more STEM focused such as computer science. 
 
 **2. When did you do it?** 
 <br />
