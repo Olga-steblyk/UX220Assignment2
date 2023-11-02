@@ -15,7 +15,7 @@ I liked my coworker, they were super nice and very helpful when I had questions.
 
 **4. What was your favourite memory of it?**
 <br />
-I enjoyed going to get food with a few of my friend after work, usually sushi or Kripsy Kream donuts. 
+I enjoyed going to get food with a few of my friend after work, usually Sushi or Kripsy Kream donuts. 
 
 **5. What didn't you enjoy about it?**
 <br />
