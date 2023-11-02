@@ -7,14 +7,22 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cabin&family=Texturina:opsz,wght@12..72,900&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --main-background: #f1faee;
+            --main-foreground: #1d3557;
+            --pane-padding: 5px 42px;
+            --body-fonts: 'Texturina', serif;
+        }
         h1,h2{
             --main-foreground:#1d3557;
-            font-family: 'Texturina', serif;}
+            font-family: var(--body-fonts);
+            }
         footer{
-            --main-background::#f1faee;
+            background-color: #e63946;
+            color: #f1faee;
             padding:10px;
-            border: 2px solid #457b9d;
-            border-width: thick;
+            text-align: center;
+            font-family: var(--body-fonts);
         }
         body{
             padding: 6px;
@@ -28,14 +36,10 @@
         nav{
             --main-foreground:#1d3557; 
             background-color: #e63946;
-            font-family: 'Texturina', serif;
+            font-family: var(--body-fonts);
 
         }
-        :root {
-            --main-background: #f1faee;
-            --main-foreground: #1d3557;
-            --pane-padding: 5px 42px;
-        }
+        
         
         
  
@@ -76,6 +80,8 @@
     </main>
     <footer>
         <p>&copy; Olga Steblyk</p>
+        <p>Thank you for reading and I hope you have a wonderful day. </p>
+
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
