@@ -37,7 +37,9 @@
             --main-foreground:#1d3557; 
             background-color: #e63946;
             font-family: var(--body-fonts);
-
+        }
+        a{
+            color:#e63946;
         }
         
         
@@ -70,13 +72,22 @@
         <br />
     </header>
     <main>
+
         <x-markdown2html src="items/experience_1.md" id="section_1"></x-markdown2html>
         <x-markdown2html src="items/experience_2.md" id="section_2"></x-markdown2html>
         <x-markdown2html src="items/experience_3.md" id="section_3"></x-markdown2html>
         <x-markdown2html src="items/experience_4.md" id="section_4"></x-markdown2html>
         <x-markdown2html src="items/experience_5.md" id="section_5"></x-markdown2html>
-        <x-markdown2html src="contact.md" id="contact"></x-markdown2html>
-        <x-markdown2html src="about.md" id="about"></x-markdown2html>
+        
+        <div class="banner">
+            <div class="col-left">
+                <x-markdown2html src="about.md" id="about">
+            </div>
+            <div class="col-center"></div>
+            <div class="col-right"><x-markdown2html src="contact.md" id="contact">
+            </div>
+        </div>
+        
     </main>
     <footer>
         <p>&copy; Olga Steblyk</p>
