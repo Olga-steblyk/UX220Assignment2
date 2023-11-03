@@ -31,15 +31,15 @@
             font-family: 'Cabin', sans-serif;
         }
         header{
-            --main-foreground:#1d3557;
+            color:var(--main-foreground);
         }
         nav{
-            --main-foreground:#1d3557; 
+            color:var(--main-background); 
             background-color: #e63946;
-            font-family: var(--body-fonts);
+            font-family:var(--body-fonts);
         }
         a{
-            color:#e63946;
+            color: var(--main-background);
         }
         .column {
             float: center;
@@ -54,7 +54,7 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark">
+        <nav class="navbar navbar-expand-md">
             <a class="navbar-brand" href="#">Olga Steblyk</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04"
                 aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
